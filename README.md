@@ -47,7 +47,7 @@ of efficient, innovative semiconductor systems.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: Add your profile link here
+- LinkedIn: www.linkedin.com/in/karthikeya-kovela
 
 ---
 
