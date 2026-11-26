@@ -4,8 +4,6 @@ My engineering portfolio.
 
 # Hi, I'm Karthikeya Kovela 👋
 
-### From Logic Gates to Silicon
-
 ECE Undergraduate | VLSI Enthusiast | Engineering Explorer
 
 ## 👨‍💻 About Me
